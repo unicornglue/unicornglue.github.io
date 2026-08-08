@@ -1,7 +1,7 @@
 .test {
   color: red;
   background-color: black;
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
 }
 p {
   color: #ff086a
