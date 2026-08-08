@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 .test {
   color: red;
   background-color: black;
   font-family: 'Roboto', sans-serif;
+  font-size: 48px;
 }
 p {
   color: #ff086a
