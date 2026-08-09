@@ -6,5 +6,9 @@
   font-size: 48px;
 }
 p {
-  color: #ff086a
+  color: #ff086a;
+}
+button {
+  height: 30px;
+  width: 60px;
 }
